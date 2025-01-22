@@ -20,4 +20,4 @@ console.log("Latest Update");
 // ESC :wq ---- helpful(Escape the writing mode, save and quit)
 
 //  I am fixing sum bug
-console.log("Bug Fixed");
+console.log("Bug fixed");
